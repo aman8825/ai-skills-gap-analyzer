@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "groq-sdk": "^1.2.1",
+    "pdf-parse": "^1.1.1",
+    "pdfjs-dist": "^6.0.227"
+  }
+}
